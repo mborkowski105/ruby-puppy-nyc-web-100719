@@ -7,6 +7,7 @@ class Dog
   end
   
   def self.all 
-    return
+    return @@all
   end
+  
 end
